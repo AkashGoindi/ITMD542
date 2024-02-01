@@ -1,9 +1,5 @@
 @import url(./button.css);
 
-*{
-
-}
-
 html {
   scroll-behavior: smooth;
 }
@@ -85,7 +81,6 @@ main {
 
 .welcome_text {
   font-size: 3.2vw;
-  font-family: fantasy;
   margin: 0px;
 }
 
