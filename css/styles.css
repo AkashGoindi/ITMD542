@@ -79,12 +79,12 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: calc(100vh - 84px);
+  margin: 20vh 0px;
   flex: 1;
 }
 
 .welcome_text {
-  font-size: 4vw;
+  font-size: 3.2vw;
   font-family: fantasy;
   margin: 0px;
 }
